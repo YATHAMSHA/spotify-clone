@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "spotify-clone-2b452",
+    "staging": "spotify-clone-ec9e1"
+  },
+  "targets": {}
+}
